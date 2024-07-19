@@ -34,10 +34,6 @@ The following libraries were used in this project:
     - The difference in the average price, due to the presence of amenities was calculated.
     - Correlation between price and other colums was calculated.
 
-    Key findings:
-    - A certain percentage of `price` and `available` columns have missing values.
-    - The percentage of missing `price` values is different when the listing is available compared to when it is not.
-
 ## Results
 - The analysis revealed important insights into the distribution of Airbnb listings in Seattle.
 - It highlighted the periods with the highest availability and pricing trends over time.
